@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/rahulkumargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rahulkumargupta" height="30" width="40" /></a> -->
-<a href="https://twitter.com/iimtrahul1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iimtrahul1502" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/iimtrahul1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iimtrahul1502" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/rahul-kumar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar22" height="30" width="40" /></a>
 <!-- <a href="https://codesandbox.com/rahulkumar2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rahulkumar2022" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/rahul2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul2022" height="30" width="40" /></a>
