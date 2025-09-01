@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate Full Stack Software Developer with over 2.7 Years of experience</h3>
+<h3 align="center">A passionate Full Stack Software Developer with over 3 Years of experience</h3>
 
-- 🌱 I’m currently learning **Next.js, Node, AI**
+- 🌱 I’m currently learning **Python, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulkumar2022](https://github.com/rahulkumar2022)
 
