@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate Full Stack Software Developer with over 3 Years of experience</h3>
+<h3 align="center">A passionate Full Stack Software Developer with over 4.5 Years of experience</h3>
 
 - 🌱 I’m currently learning **Python, AI**
 
