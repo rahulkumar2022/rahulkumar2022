@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulkumar2022](https://github.com/rahulkumar2022)
 
-- 💬 Ask me about **Java, Spring boot, Angular, React, etc....**
+- 💬 Ask me about **Java, Go, Spring boot, Angular, React, etc....**
 
 - 📫 How to reach me **rahul1502.iimt@gmail.com**
 
